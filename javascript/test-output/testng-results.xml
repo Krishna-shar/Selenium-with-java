@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-19T22:04:05 IST" name="testingbaba" finished-at="2025-04-19T22:04:14 IST" duration-ms="9383">
+    <groups>
+    </groups>
+    <test started-at="2025-04-19T22:04:05 IST" name="Textbox Test" finished-at="2025-04-19T22:04:14 IST" duration-ms="9383">
+      <class name="testingbaba_test.Textbox_test">
+        <test-method is-config="true" signature="getLaunchedUrl_testingbaba(java.lang.String,java.lang.String)[pri:0, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:05 IST" name="getLaunchedUrl_testingbaba" finished-at="2025-04-19T22:04:08 IST" duration-ms="3664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[preprod]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchedUrl_testingbaba -->
+        <test-method signature="clickclosebtn()[pri:0, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:08 IST" name="clickclosebtn" finished-at="2025-04-19T22:04:09 IST" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickclosebtn -->
+        <test-method signature="praticebtn()[pri:1, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:09 IST" name="praticebtn" finished-at="2025-04-19T22:04:12 IST" duration-ms="2448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- praticebtn -->
+        <test-method signature="clickontextbox_elements()[pri:2, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:12 IST" name="clickontextbox_elements" finished-at="2025-04-19T22:04:13 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickontextbox_elements -->
+        <test-method signature="enterdetails()[pri:3, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:13 IST" name="enterdetails" finished-at="2025-04-19T22:04:14 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterdetails -->
+        <test-method signature="submitbtn()[pri:4, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:14 IST" name="submitbtn" finished-at="2025-04-19T22:04:14 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitbtn -->
+        <test-method signature="getverifyed()[pri:5, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:14 IST" name="getverifyed" finished-at="2025-04-19T22:04:14 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getverifyed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testingbaba_test.Textbox_test@4b2bac3f]" started-at="2025-04-19T22:04:14 IST" name="tearDown" finished-at="2025-04-19T22:04:14 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testingbaba_test.Textbox_test -->
+    </test> <!-- Textbox Test -->
+  </suite> <!-- testingbaba -->
+</testng-results>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="testingbaba">
+<parameter name="env" value="preprod"></parameter>
+<parameter name="browsername" value="chrome"></parameter>
+
+  <test name="Login Test" enabled="false">
+    <classes>
+      <class name="testingbaba_test.login_test"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Textbox Test" enabled="true">
+  	<classes>
+  		<class name="testingbaba_test.Textbox_test"/>
+ 	 </classes>
+  </test>
+  <test name="Checkbox Test" enabled="false">
+  	<classes>
+ 		 <class name="testingbaba_test.Checkbox_test"/>
+  	</classes>
+  </test>
+  <test name="WebTable Test" enabled="false">
+  	<classes>
+  		<class name="testingbaba_test.WebTable_test"/>
+  	</classes>
+  </test>
+</suite> <!-- Suite -->
